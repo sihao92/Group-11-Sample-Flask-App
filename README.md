@@ -2,7 +2,7 @@ Welcome to the AWS CodeStar sample web service
 ==============================================
 
 This sample code helps get you started with a simple Flask web service
-deployed by AWS CodeDeploy and AWS CloudFormation to an Amazon EC2 server.
+deployed by AWS CodeDeploy and AWS CloudFormation to an Amazon EC2 server.testtesttest
 
 What's Here
 -----------
